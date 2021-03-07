@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Everyone!  👋
 
 <!--
 **ChocolatePadmanaban/ChocolatePadmanaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Kubernetes and Python  
+- 🌱 I’m learning Web-scraping , Mathematical Programing and Machine Learning by creating workout repositories on it.
+- 🤔 I’m looking for help with Embedded Programming 
+- 💬 Ask me about Python Programming
+- 📫 How to reach me: https://www.linkedin.com/in/pradeep-padmanaban-843120123/
+
