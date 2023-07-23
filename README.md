@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Kubernetes and Python  
-- 🌱 I’m learning Web-scraping , Mathematical Programing and Machine Learning by creating workout repositories on it.
-- 🤔 I’m looking for help with Embedded Programming 
-- 💬 Ask me about Python Programming
+- 🔭 I’m currently working on Kubernetes, go and Python  
+- 🌱 I’m learning Cyber-security  , Mathematical Programing and Machine Learning by creating workout repositories on it.
+- 🤔 I’m looking for help with Cyber-security
+- 💬 Ask me about Python Programming , Kubernetes
 - 📫 How to reach me: https://www.linkedin.com/in/pradeep-padmanaban-843120123/
 - ⚡  Checkout my Website  https://chocolatepadmanaban.github.io/
